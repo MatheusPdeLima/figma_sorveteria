@@ -1,3 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color: #53C0FC;
 }
+
+.pag_1{
+    background-color: #53C0FC;
+    padding: 70px 0;  
+    
+}
+
+.titulo{
+    margin: 50px;
+    font-size: 70px;
+    display: flex;
+}
+
+
+.logo{
+    width: 40%;
+margin: 150px;
+display: flex;
+
+}
+
+
+
+
+.cardapio{
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    margin: 50px;
+}
+
+.opçoes{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 60px;
+    margin: 50px;
+}
+
+.casc{
+    display: list-item;
+    justify-content: space-around;
+    font-size: 60px;
+    padding: 60px;
+    margin: 20px;
+}
+
+.li1{
+    display: flex;
+    margin: 40px;
+
+}
+
+
+.ul1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul2{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul3{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul4{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul5{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul6{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ul7{
+    display: flex;
+    justify-content: space-around;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.ulitem{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.sab{
+    padding: 50px;
+}
+
+.endereço{
+    display: flex;
+    justify-content: space-around;
+    font-size: 60px;
+    margin: 30px;
+    padding: 30px;
+}
+
+.ul9{
+    margin: 40px;
+    padding: 40px;
+}
+
+.ul10{
+    margin: 150px;
+}
+
+.endereço1{
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+
